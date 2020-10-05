@@ -107,8 +107,6 @@ https://editor.p5js.org/l3ehfar/sketches/b6ssTWBuk
 
 
 
-
-
 complex systems:
 Now, each of particle is a simulated being that makes decisions about how to seek and flow and follow. But what is a life led alone, without the love and support of others? Our purpose here is not only to build individual behaviors for our particles, but to put our particles into systems of many particles and allow those particles to interact with each other.
 Here are three key principles of complex systems:
@@ -124,9 +122,7 @@ The most exciting and intriguing behaviors will come from mixing and matching mu
 •	Separate from any vehicles that are too close.
 
 Flocking:
-Flocking is a 
-
-group animal behavior that is characteristic of many living creatures, such as birds, fish, and insects. 
+Flocking is a group animal behavior that is characteristic of many living creatures, such as birds, fish, and insects. 
 1.	We will use the steering force formula (steer = desired - velocity) to implement the rules of flocking.
 2.	These steering forces will be group behaviors and require each vehicle to look at all the other vehicles.
 3.	We will combine and weight multiple forces.
