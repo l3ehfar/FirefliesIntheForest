@@ -159,10 +159,12 @@ To regulate some attributes of the project, I’ve decided to exploitا neural n
 
 Neural Network Regression: 
 In order to regulate the patterns of the Flow Fields on the trees, I made use of Neural Network Regression. I trained the model with various positions of the character; each assigned a specific value for the X-axis and Y-axis of the flow fields. This gives rise to a smooth wave in the visual of the fireflies floating on the flow fields of the trees.
+
  ![regression training](https://github.com/l3ehfar/FirefliesIntheForest/blob/master/images/regressionTraining.png)
 
 Neural Network Classification:
 I train another neural network based on the character’s position in order to recognize a specific pose and visually response to that. For this purpose, I used the Neural Network Classification approach. 
+
 ![classification training](https://github.com/l3ehfar/FirefliesIntheForest/blob/master/images/positiontrain.png)
  
 
